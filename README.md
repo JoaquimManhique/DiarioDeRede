@@ -4,7 +4,10 @@
 * **Turma:** 3L6LASIR3T
 * **Tema:** Tema C — Diário de Rede
 * **Integrantes do Grupo:**
-  1. Zelfan Cau - 202302142
+  1. Karen Francisco - 202401372
+  2. Leticia Matola - 202400472 
+  3. Zelfan Cau - 202302142
+     
 
 
 ## Descrição da Aplicação
